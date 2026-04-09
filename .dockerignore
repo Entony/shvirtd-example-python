@@ -1,0 +1,9 @@
+schema.jpg
+README.md
+LICENSE
+.env
+.git/
+Dockerfile
+proxy.yaml
+haproxy/
+nginx/
